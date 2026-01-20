@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\maxi programa\\curso c#4\\Practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A31C69-DA99-4F56-9831-14BBC3E71F54}|Unidad1 ejercicio2\\Unidad1 ejercicio2.csproj|c:\\users\\usuario\\source\\repos\\unidad1 ejercicio2\\unidad1 ejercicio2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A31C69-DA99-4F56-9831-14BBC3E71F54}|Unidad1 ejercicio2\\Unidad1 ejercicio2.csproj|c:\\users\\usuario\\source\\repos\\unidad1 ejercicio2\\unidad1 ejercicio2\\views\\home\\bienvenido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A31C69-DA99-4F56-9831-14BBC3E71F54}|Unidad1 ejercicio2\\Unidad1 ejercicio2.csproj|c:\\users\\usuario\\source\\repos\\unidad1 ejercicio2\\unidad1 ejercicio2\\views\\home\\bienvenido.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A31C69-DA99-4F56-9831-14BBC3E71F54}|Unidad1 ejercicio2\\Unidad1 ejercicio2.csproj|c:\\users\\usuario\\source\\repos\\unidad1 ejercicio2\\unidad1 ejercicio2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A31C69-DA99-4F56-9831-14BBC3E71F54}|Unidad1 ejercicio2\\Unidad1 ejercicio2.csproj|c:\\users\\usuario\\source\\repos\\unidad1 ejercicio2\\unidad1 ejercicio2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A31C69-DA99-4F56-9831-14BBC3E71F54}|Unidad1 ejercicio2\\Unidad1 ejercicio2.csproj|c:\\users\\usuario\\source\\repos\\unidad1 ejercicio2\\unidad1 ejercicio2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A31C69-DA99-4F56-9831-14BBC3E71F54}|Unidad1 ejercicio2\\Unidad1 ejercicio2.csproj|c:\\users\\usuario\\source\\repos\\unidad1 ejercicio2\\unidad1 ejercicio2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:59:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bienvenido.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\bienvenido.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\bienvenido.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\bienvenido.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\bienvenido.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:56:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:51:11.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:51:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bienvenido.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\Bienvenido.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\Bienvenido.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\Bienvenido.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\Home\\Bienvenido.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:50:31.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:49:52.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\source\\repos\\Unidad1 ejercicio2\\Unidad1 ejercicio2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T19:49:43.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
