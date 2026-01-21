@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1123F810-EF66-4379-8221-7D0BFE96C701}|..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\dominio.csproj|c:\\users\\usuario\\downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|c:\\maxi programa\\curso c#4\\practicas\\pokedex_mvc\\pokedex_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|solutionrelative:pokedex_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|c:\\maxi programa\\curso c#4\\practicas\\pokedex_mvc\\pokedex_mvc\\pokedex_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|solutionrelative:pokedex_mvc\\pokedex_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elemento.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Elemento.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Elemento.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Elemento.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Elemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T22:56:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokedex_mvc",
+              "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Pokedex_mvc.csproj",
+              "RelativeDocumentMoniker": "Pokedex_mvc\\Pokedex_mvc.csproj",
+              "ToolTip": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Pokedex_mvc.csproj",
+              "RelativeToolTip": "Pokedex_mvc\\Pokedex_mvc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T22:40:16.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pokedex_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pokedex_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T22:39:36.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

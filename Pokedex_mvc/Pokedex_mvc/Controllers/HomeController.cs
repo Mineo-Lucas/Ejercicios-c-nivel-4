@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Pokedex_mvc.Models;
+using dominio;
 
 namespace Pokedex_mvc.Controllers
 {

@@ -1,9 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\Users\Usuario\Downloads\ejemplos-asp-webforms-main\ejemplos-asp-webforms-main\dominio\dominio.csproj" />
+    <ProjectReference Include="..\..\..\..\..\Users\Usuario\Downloads\ejemplos-asp-webforms-main\ejemplos-asp-webforms-main\negocio\negocio.csproj" />
+  </ItemGroup>
 
 </Project>
