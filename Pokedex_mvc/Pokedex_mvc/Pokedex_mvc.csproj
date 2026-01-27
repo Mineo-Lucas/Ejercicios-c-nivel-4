@@ -15,4 +15,8 @@
     <ProjectReference Include="..\..\..\..\..\Users\Usuario\Downloads\ejemplos-asp-webforms-main\ejemplos-asp-webforms-main\negocio\negocio.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Pokemones\" />
+  </ItemGroup>
+
 </Project>
