@@ -3,15 +3,28 @@
   "WorkspaceRootPath": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|c:\\maxi programa\\curso c#4\\practicas\\pokedex_mvc\\pokedex_mvc\\controllers\\controladorpokemones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|solutionrelative:pokedex_mvc\\controllers\\controladorpokemones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{974D539C-098C-4E52-89FB-7B433F91DC0C}|..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\negocio.csproj|c:\\users\\usuario\\downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1123F810-EF66-4379-8221-7D0BFE96C701}|..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\dominio.csproj|c:\\users\\usuario\\downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|c:\\maxi programa\\curso c#4\\practicas\\pokedex_mvc\\pokedex_mvc\\controllers\\pokemonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|solutionrelative:pokedex_mvc\\controllers\\pokemonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974D539C-098C-4E52-89FB-7B433F91DC0C}|..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\negocio.csproj|c:\\users\\usuario\\downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|c:\\maxi programa\\curso c#4\\practicas\\pokedex_mvc\\pokedex_mvc\\views\\pokemones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|solutionrelative:pokedex_mvc\\views\\pokemones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|c:\\maxi programa\\curso c#4\\practicas\\pokedex_mvc\\pokedex_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|solutionrelative:pokedex_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1123F810-EF66-4379-8221-7D0BFE96C701}|..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\dominio.csproj|c:\\users\\usuario\\downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1123F810-EF66-4379-8221-7D0BFE96C701}|..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\dominio.csproj|c:\\users\\usuario\\downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E27418BE-2006-12FD-D1FB-32D641DC0AB1}|Pokedex_mvc\\Pokedex_mvc.csproj|c:\\maxi programa\\curso c#4\\practicas\\pokedex_mvc\\pokedex_mvc\\pokedex_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,24 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:03:58.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ControladorPokemones.cs",
-              "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Controllers\\ControladorPokemones.cs",
-              "RelativeDocumentMoniker": "Pokedex_mvc\\Controllers\\ControladorPokemones.cs",
-              "ToolTip": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Controllers\\ControladorPokemones.cs",
-              "RelativeToolTip": "Pokedex_mvc\\Controllers\\ControladorPokemones.cs",
+              "Title": "PokemonNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\PokemonNegocio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\PokemonNegocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\PokemonNegocio.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\negocio\\PokemonNegocio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:51:41.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Pokemon.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Pokemon.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Pokemon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:40:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Views\\Pokemones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pokedex_mvc\\Views\\Pokemones\\Index.cshtml",
+              "ToolTip": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Views\\Pokemones\\Index.cshtml",
+              "RelativeToolTip": "Pokedex_mvc\\Views\\Pokemones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T14:35:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonesController.cs",
+              "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Controllers\\PokemonesController.cs",
+              "RelativeDocumentMoniker": "Pokedex_mvc\\Controllers\\PokemonesController.cs",
+              "ToolTip": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Controllers\\PokemonesController.cs",
+              "RelativeToolTip": "Pokedex_mvc\\Controllers\\PokemonesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T14:22:02.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Elemento.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Elemento.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Elemento.cs",
@@ -50,12 +115,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\ejemplos-asp-webforms-main\\ejemplos-asp-webforms-main\\dominio\\Elemento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T22:56:01.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T22:56:01.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Pokedex_mvc.csproj",
               "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Pokedex_mvc.csproj",
               "RelativeDocumentMoniker": "Pokedex_mvc\\Pokedex_mvc.csproj",
@@ -67,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\Pokedex_mvc\\Pokedex_mvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Pokedex_mvc\\Controllers\\HomeController.cs",
@@ -75,7 +139,8 @@
               "RelativeToolTip": "Pokedex_mvc\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T22:39:36.73Z"
+              "WhenOpened": "2026-01-20T22:39:36.73Z",
+              "EditorCaption": ""
             }
           ]
         }
