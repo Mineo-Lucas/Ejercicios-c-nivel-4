@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="10.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\Users\Usuario\Downloads\discos-console-db-main\discos-console-db-main\dominio\dominio.csproj" />
+    <ProjectReference Include="..\..\..\..\..\Users\Usuario\Downloads\discos-console-db-main\discos-console-db-main\negocio\negocio.csproj" />
+  </ItemGroup>
+
 </Project>

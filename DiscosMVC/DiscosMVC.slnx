@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../../../../Users/Usuario/Downloads/discos-console-db-main/discos-console-db-main/dominio/dominio.csproj" Id="fd247e55-a363-4d6a-9759-0cf835baca93" />
+  <Project Path="../../../../Users/Usuario/Downloads/discos-console-db-main/discos-console-db-main/negocio/negocio.csproj" Id="56e40a86-fdb1-4901-a91e-9972e1ebeee0" />
+  <Project Path="../../../../Users/Usuario/Downloads/discos-console-db-main/discos-console-db-main/presentacion-consola/presentacion-consola.csproj" Id="55217e39-b66e-4cb6-afdf-00653bd59abd" />
   <Project Path="DiscosMVC/DiscosMVC.csproj" />
 </Solution>

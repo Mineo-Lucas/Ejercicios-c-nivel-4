@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\maxi programa\\curso c#4\\Practicas\\DiscosMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2545F6-4498-F996-DEBA-FC5682C06B66}|DiscosMVC\\DiscosMVC.csproj|c:\\maxi programa\\curso c#4\\practicas\\discosmvc\\discosmvc\\views\\discos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2545F6-4498-F996-DEBA-FC5682C06B66}|DiscosMVC\\DiscosMVC.csproj|solutionrelative:discosmvc\\views\\discos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55217E39-B66E-4CB6-AFDF-00653BD59ABD}|..\\..\\..\\..\\Users\\Usuario\\Downloads\\discos-console-db-main\\discos-console-db-main\\presentacion-consola\\presentacion-consola.csproj|c:\\users\\usuario\\downloads\\discos-console-db-main\\discos-console-db-main\\presentacion-consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Discos.cshtml",
+              "DocumentMoniker": "C:\\maxi programa\\curso c#4\\Practicas\\DiscosMVC\\DiscosMVC\\Views\\Discos.cshtml",
+              "RelativeDocumentMoniker": "DiscosMVC\\Views\\Discos.cshtml",
+              "ToolTip": "C:\\maxi programa\\curso c#4\\Practicas\\DiscosMVC\\DiscosMVC\\Views\\Discos.cshtml",
+              "RelativeToolTip": "DiscosMVC\\Views\\Discos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T22:58:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\discos-console-db-main\\discos-console-db-main\\presentacion-consola\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\discos-console-db-main\\discos-console-db-main\\presentacion-consola\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\discos-console-db-main\\discos-console-db-main\\presentacion-consola\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Usuario\\Downloads\\discos-console-db-main\\discos-console-db-main\\presentacion-consola\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T22:26:46.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
